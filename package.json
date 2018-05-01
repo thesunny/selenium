@@ -1,0 +1,9 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "Package for running Selenium server",
+  "private": true,
+  "scripts": {
+    "selenium": "java -jar selenium-server-standalone-3.11.0.jar"
+  }
+}
