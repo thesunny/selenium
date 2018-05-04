@@ -4,6 +4,6 @@
   "description": "Package for running Selenium server",
   "private": true,
   "scripts": {
-    "selenium": "java -jar selenium-server-standalone-3.11.0.jar"
+    "selenium": "java -jar selenium-server-standalone-3.4.0.jar"
   }
 }
